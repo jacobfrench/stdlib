@@ -1,4 +1,3 @@
-#!/usr/bin/python
 import json
 import urllib2
 import sys
@@ -48,24 +47,24 @@ def getCountryCodes(codeDir):
 
 
 
-# ---------------------------------------------------------------------------------
-ROOTDIR = os.path.dirname(os.path.realpath(__file__))
-DATADIR = ROOTDIR + '/data/'
+if __name__ == "__main__":
+	ROOTDIR = os.path.dirname(os.path.realpath(__file__))
+	DATADIR = ROOTDIR + '/data/'
 
-if(len(sys.argv) < 2):
-	countryCodes = getCountryCodes(ROOTDIR + '/read_only/countrycodes.csv')
-else:
-	countryCodes = [str(sys.argv[1])]
-
-
-for code in countryCodes:
-	url = 'http://api.worldbank.org/countries/' + code.upper() +\
-	 '/indicators/SP.POP.TOTL?per_page=100&date=1960:2014&format=json'
-
-	webURL = urllib2.urlopen(url)
-	if(webURL.getcode() == 200):
-		data = webURL.read()
-		writeToCsv(getData(str(data), DATADIR), DATADIR + 'worldtotalpopulation.tsv', 'a')
+	if(len(sys.argv) < 2):
+		countryCodes = getCountryCodes(ROOTDIR + '/read_only/countrycodes.csv')
 	else:
-		print('Server error. Cannot retrieve results.')
+		countryCodes = [str(sys.argv[1])]
+
+
+	for code in countryCodes:
+		url = 'http://api.worldbank.org/countries/' + code.upper() +\
+		 '/indicators/SP.POP.TOTL?per_page=100&date=1960:2014&format=json'
+
+		webURL = urllib2.urlopen(url)
+		if(webURL.getcode() == 200):
+			data = webURL.read()
+			writeToCsv(getData(str(data), DATADIR), DATADIR + 'worldtotalpopulation.tsv', 'a')
+		else:
+			print('Server error. Cannot retrieve results.')
 
