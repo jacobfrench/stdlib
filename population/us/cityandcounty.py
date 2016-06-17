@@ -12,7 +12,8 @@ def determineIndicator(name):
 				  'city (pt.)', 'city (balance)',
 				  'borough', 'parish', 'village', 'village (pt.)',
 				  'Municipality', 'town (pt.)', 'Borough',
-				  'Census Area', 'County', '(balance)'
+				  'Census Area', 'County', '(balance)', 'Parish',
+				  '(balance) (pt.)'
 				  ]
 
 	for indicator in indicators:
@@ -23,7 +24,8 @@ def determineIndicator(name):
 
 
 def isState(name, state):
-	return state == name
+	return (state == name)
+
 
 def isCounty(name):
 	return name.endswith('County')
@@ -45,6 +47,7 @@ def removeDuplicates(arr):
 			cleanedList.append(item)
 			seen.add(t)
 	return cleanedList
+
 
 def checkPopulationSize(row):
 	population = 0
@@ -68,14 +71,23 @@ def checkPopulationSize(row):
 
 
 if __name__ == "__main__":
+
+	# city sizes
+	SMALL = 'small'
+	MEDSMALL = 'medsmall'
+	MED = 'med'
+	MEDLARGE = 'medlarge'
+	LARGE = 'large'
+
+	print('Reading data.')
 	url = 'http://www.census.gov/popest/data/cities/totals/2015/files/SUB-EST2015_ALL.csv'
 	response = urllib2.urlopen(url)
 	entries = csv.DictReader(response)
 
 
 	rows = []
-	year = 2010
-	print('Reading data.')
+	
+	print('Sorting data.')
 	for entry in entries:
 		name = entry['NAME']
 		state = entry['STNAME']
@@ -89,30 +101,29 @@ if __name__ == "__main__":
 
 		# if county
 		if(isCounty(name)):
-			rows.append([name, state, str(year), pop2010])
-			rows.append([name, state, str(year+1), pop2011])
-			rows.append([name, state, str(year+2), pop2012])
-			rows.append([name, state, str(year+3), pop2013])
-			rows.append([name, state, str(year+4), pop2014])
-			rows.append([name, state, str(year+5), pop2015])
+			rows.append([name, state, '2010', pop2010])
+			rows.append([name, state, '2011', pop2011])
+			rows.append([name, state, '2012', pop2012])
+			rows.append([name, state, '2013', pop2013])
+			rows.append([name, state, '2014', pop2014])
+			rows.append([name, state, '2015', pop2015])
 		# if state
 		elif(isState(name, state)):
-			rows.append([name, str(year), pop2010])
-			rows.append([name, str(year+1), pop2011])
-			rows.append([name, str(year+2), pop2012])
-			rows.append([name, str(year+3), pop2013])
-			rows.append([name, str(year+4), pop2014])
-			rows.append([name, str(year+5), pop2015])
+			rows.append([name, '2010', pop2010])
+			rows.append([name, '2011', pop2011])
+			rows.append([name, '2012', pop2012])
+			rows.append([name, '2013', pop2013])
+			rows.append([name, '2014', pop2014])
+			rows.append([name, '2015', pop2015])
 		# else city
 		else:
 			name = name.replace(determineIndicator(name), '')
-			rows.append([name, state, indicator, str(year), pop2010])
-			rows.append([name, state, indicator, str(year+1), pop2011])
-			rows.append([name, state, indicator, str(year+2), pop2012])
-			rows.append([name, state, indicator, str(year+3), pop2013])
-			rows.append([name, state, indicator, str(year+4), pop2014])
-			rows.append([name, state, indicator, str(year+5), pop2015])
-		
+			rows.append([name, state, indicator, '2010', pop2010])
+			rows.append([name, state, indicator, '2011', pop2011])
+			rows.append([name, state, indicator, '2012', pop2012])
+			rows.append([name, state, indicator, '2013', pop2013])
+			rows.append([name, state, indicator, '2014', pop2014])
+			rows.append([name, state, indicator, '2015', pop2015])
 
 
 
@@ -136,7 +147,6 @@ if __name__ == "__main__":
 	medLargeCities.append(cityHeaders)
 	largeCities.append(cityHeaders)
 
-	print('Sorting data.')
 	for row in rows:
 		
 		if(len(row) == 3):
@@ -144,25 +154,25 @@ if __name__ == "__main__":
 		elif(len(row) == 4):
 			counties.append(row)
 		elif(len(row) == 5):
-			if(checkPopulationSize(row) == 'small'):
+			if(checkPopulationSize(row) == SMALL):
 				smallCities.append(row)
-			elif(checkPopulationSize(row) == 'medsmall'):
+			elif(checkPopulationSize(row) == MEDSMALL):
 				medSmallCities.append(row)
-			elif(checkPopulationSize(row) == 'med'):
+			elif(checkPopulationSize(row) == MED):
 				medCities.append(row)
-			elif(checkPopulationSize(row) == 'medlarge'):
+			elif(checkPopulationSize(row) == MEDLARGE):
 				medLargeCities.append(row)
-			elif(checkPopulationSize(row) == 'large'):
+			elif(checkPopulationSize(row) == LARGE):
 				largeCities.append(row)
 
 	ROOTDIR = os.path.dirname(os.path.realpath(__file__)) + '/data/'
 	
-	writeToCsv(removeDuplicates(smallCities), ROOTDIR+'smallcitypop.csv', 'w')
-	writeToCsv(removeDuplicates(medSmallCities), ROOTDIR+'medsmallcitypop.csv', 'w')
-	writeToCsv(removeDuplicates(medCities), ROOTDIR+'medcitypop.csv', 'w')
-	writeToCsv(removeDuplicates(medLargeCities), ROOTDIR+'medlargecitypop.csv', 'w')
-	writeToCsv(removeDuplicates(largeCities), ROOTDIR+'largecitypop.csv', 'w')
-	writeToCsv(removeDuplicates(states), ROOTDIR+'statepop.csv', 'w')
-	writeToCsv(removeDuplicates(counties), ROOTDIR+'countiespop.csv', 'w')
+	writeToCsv(removeDuplicates(smallCities), ROOTDIR+'smallcitypop.tsv', 'w')
+	writeToCsv(removeDuplicates(medSmallCities), ROOTDIR+'medsmallcitypop.tsv', 'w')
+	writeToCsv(removeDuplicates(medCities), ROOTDIR+'medcitypop.tsv', 'w')
+	writeToCsv(removeDuplicates(medLargeCities), ROOTDIR+'medlargecitypop.tsv', 'w')
+	writeToCsv(removeDuplicates(largeCities), ROOTDIR+'largecitypop.tsv', 'w')
+	writeToCsv(removeDuplicates(states), ROOTDIR+'statepop.tsv', 'w')
+	writeToCsv(removeDuplicates(counties), ROOTDIR+'countiespop.tsv', 'w')
 	print('Data saved.')
 		
