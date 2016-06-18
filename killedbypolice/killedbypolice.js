@@ -4,83 +4,54 @@ var request = require('request'),
 	tableRows = [];
 
 
-request('http://www.killedbypolice.net/kbp2013.html', function(err, resp, body){
-
-
-
-
+request('http://www.killedbypolice.net/', function(err, resp, body){
 
 	if(!err && resp.statusCode == 200){
 		var $ = cheerio.load(body);
 		var table = $('table');
 
 
-		var tdlist = []
+		// get each tr tag into an array.
+		var rowList = []
 		$(table).each(function(i, row){
-			$(row).find('td').each(function(i, td){
-					tdlist.push(td);
-					// console.log(td['children'][0]['children'][0]['data']); //date
-
-
-				
-				
+			$(row).find('tr').each(function(i, tr){
+					rowList.push(tr);
 			});
-
 		});
 
-		// start iterating from 22 and move 7 for each iteration.
-		// this works when the name field is either empty or has only
-		// a string with no link in the name field.
-		var i = 8;
-		// console.log(list[i]);
-		// console.log('========================================================')
-		// console.log(list[i]['children'][0]['children'][0]);
-		// console.log('========================================================')
-		var date = '';
-		var state = '';
-		var gender = '';
-		var name = '';
-		var method = '';
+		
 
+		//iterate through a list of tr tags and find data in each row's td tags
+		// with an absolute path.
+		for(i=0; i <rowList.length;i++){
+			currentRow = rowList[i];
+			head = currentRow['children'][0]['children'][0]['children'][0];
+			try{
+				var date = (head['data']);
+				var state = (head['next']['children'][0]['data']);
+				var genderrace = (head['next']['next']['children'][0]['data']);
+				var method = (head['next']['next']['next']['next']['children'][0]['children'][0]['data']);
+				var nameage = (head['next']['next']['next']['children'][0]['data']);
 
-		try{
-			date = (tdlist[i]['children'][0]['children'][0]['data']); //date
-			state = (tdlist[i]['children'][0]['children'][0]['next']['children'][0]['data']); //state
-			gender = (tdlist[i]['children'][0]['children'][0]['next']['next']['children'][0]['data']); //gender/race
-			name = (tdlist[i]['children'][0]['children'][0]['next']['next']['next']['children'][0]['data']); //name/age
-			method = (tdlist[i]['children'][0]['children'][0]['next']['next']['next']['next']['children'][0]['children'][0]['data']); //method
-		}catch(err){
-			date = (tdlist[i]['children'][0]['children'][0]['data']); //date
-			state = (tdlist[i]['children'][0]['children'][0]['next']['children'][0]['data']); //state
-			gender = (tdlist[i]['children'][0]['children'][0]['next']['next']['children'][0]['data']); //gender/race
-			method = (tdlist[i]['children'][0]['children'][0]['next']['next']['next']['children'][0]['children'][0]['data']); //name/age
-			// console.log(tdlist[i]['children'][0]['children'][0]['next']['next']['next']['children']); //method
+			}catch(err){
+				try{
+					nameage = (head['next']['next']['next']['children'][0]['children'][0]['data']);
+					method = (head['next']['next']['next']['next']['children'][0]['children'][0]['data']);
+				}catch(err){
 
-		}
+				}
+				
+				
+			}
+				
 			
+			//test contents
+			if(date != null){
+				console.log(date + '\t\t' + state + '\t\t' + genderrace + '\t\t' + nameage + '\t\t' + method);
+			}
 
-		
-
-		console.log(date);
-		console.log(state);
-		console.log(gender);
-		console.log(name);
-		console.log(method);
-
-		
-
-
-
-		// // works when name field also contains a link
-		// console.log(list[i]);
-		// console.log('============================')
-		// console.log(list[i]['children'][0]['children'][0]['data']); //date
-		// console.log(list[i]['children'][0]['children'][0]['next']['children'][0]['data']); //state
-		// console.log(list[i]['children'][0]['children'][0]['next']['next']['children'][0]['data']); //gender/race
-		// console.log(list[i]['children'][0]['children'][0]['next']['next']['next']['children'][0]['children'][0]['data']); //name/age
-		// console.log(list[i]['children'][0]['children'][0]['next']['next']['next']['children']); //method
-
-		
+			
+		}
 		
 
 	}
