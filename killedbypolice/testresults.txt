@@ -1,0 +1,532 @@
+(533) June 16, 2016		CO		M  					G
+(532) June 16, 2016		OH		M  					G
+(531) June 16, 2016		MT		M  		Peter Grandpre, 36			G
+(530) June 16, 2016		NM		M/L		Ronald Delfino, 21			G
+(529) June 15, 2016		WI		M  		Michael D. Rasmussen, 38			G
+(528) June 15, 2016		OK		M/W		Russell Rosser, 43			G
+(527) June 14, 2016		MO		M  					G
+(526) June 14, 2016		CA		M  					G
+(525) June 14, 2016		WA		M  		Kenneth Allen Pointer, 43			G
+(524) June 14, 2016		TX		M/O		Mohammad Moghaddam, 54			G
+(523) June 14, 2016		ID		M/L		Noel Rodriguez, 50			G
+(522) June 13, 2016		AL		M/B		Michael Moore, 19			G
+(521) June 13, 2016		RI		M/L		Edward Acquisto, 80			G
+(520) June 13, 2016		NY		M/W		Joshua Sciscm, 33			G
+(519) June 13, 2016		MI		M/B		Frank Anthony Kelley, 38			G
+(518) June 12, 2016		KY		M  		John Williams, 61			G
+(517) June 12, 2016		UT		M/W		Daniel Bennett Edwards, 23			G
+(516) June 12, 2016		MS		M  		Lyndarius Witherspoon, 27			G
+(515) June 12, 2016		FL		M/O		Omar Mir Seddique Mateen, 29			G
+(514) June 11, 2016		IN		M/W		Charles Todero, 30			G
+(513) June 11, 2016		CA		M/L		Jesus Alfredo Duran, 31			G
+(512) June 11, 2016		NC		M  		Clayton Millsaps, 29			G
+(511) June 10, 2016		CA		M/B		Keith Bursey, 31			G
+(510) June 10, 2016		AZ		M  					G
+(509) June 10, 2016		CO		M/L		Bobby Sanchez, 32			G
+(508) June 10, 2016		WA		M  		J. Juan Briseno-Ortega, 50			G
+(507) June 9, 2016		TX		M/B		John Michael Brisco, 52			G
+(506) June 9, 2016		AL		M/W		William Michael Hollis, 34			G
+(505) June 9, 2016		GA		M/W		David Powell, 63			G
+(504) June 9, 2016		MI		M/W		Clifford Leroy Tucker, 68			G
+(503) June 9, 2016		PA		M/W		James Allen Nickol, 38			G
+(502) June 8, 2016		MO		M  					G
+(501) June 7, 2016		CA		M/W		Weston Sites, 15			G
+(500) June 7, 2016		CA		M/L		Omar Villagomez, 21			G
+(499) June 7, 2016		VA		M/B		Willis N. Walker Jr., 49			G
+(498) June 7, 2016		OK		M/W		Andrew Henson, 25			G
+(497) June 6, 2016		OH		M/B		Henry Green, 23			G
+(496) June 6, 2016		HI		M/PI		Kalyp Allen Rapoza, 25			G
+(495) June 5, 2016		MI		F/W		Hope Sevidal-Elferdink, 38			G
+(494) June 5, 2016		FL		M/W		Christopher Michael Moran, 31			G
+(493) June 4, 2016		CA		M  		Daniel Jonathan Shaham, 31			G
+(492) June 4, 2016		IN		M  		Larry Stepp, 31			G
+(491) June 3, 2016		SD		M/I		Jamie Lee Brave Heart, 28			G
+(490) June 3, 2016		AZ		M/I		Hubert Thomas Burns Jr., 34			G
+(489) June 3, 2016		AL		M/B		Demarco Rhymes, 35			G
+(488) June 3, 2016		AK		M  		Joshua Smith, 33			G
+(487) June 2, 2016		KY		M/W		Douglas Miller, 49			G
+(486) June 2, 2016		NC		M  		Rodney Rodriguez Smith, 18			G
+(485) June 2, 2016		VA		M/B		Willie Demetrius James, 43			G
+(484) June 1, 2016		GA		M/B		Michael Johnson, 21			G
+(483) June 1, 2016		KY		M/W		Daniel Pigg, 51			G
+(482) June 1, 2016		AZ		M/W					G
+(482) June 1, 2016		AZ		M/W					G
+(481) May 31, 2016		OR		M/W		Nicholas Berger, 36			G
+(480) May 31, 2016		AZ		M  		Jordan Black, 18			V
+(479) May 30, 2016		OR		M/W		Robert Wickizer, 70			V
+(478) May 30, 2016		AZ		M/B		Osee Calix, 33			V
+(477) May 29, 2016		NM		M  		Dennis Humphrey, 58			G
+(476) May 29, 2016		FL		M/W		Donald Edward Brown III, 32			G
+(475) May 29, 2016		TX		M/L		Dionisio Garza III, 25			G
+(474) May 29, 2016		NC		M/W		John Mark Coffey, 53			G
+(473) May 29, 2016		NC		M/W		Todd Brent Burroughs, 38			G
+(472) May 28, 2016		OK		M/B		Ollie Lee Brooks, 64			G
+(471) May 28, 2016		TX		M  		Ernesto Carrman, 41			T
+(470) May 28, 2016		AL		M  		Dennis Hudson, 50			G
+(469) May 27, 2016		IN		M  		Terry Edwards, 59			G
+(468) May 27, 2016		FL		F  					G
+(467) May 26, 2016		TX		M  					G
+(466) May 26, 2016		CA		M/L		Fernando Castro, 19			G
+(465) May 26, 2016		IL		M/W		Warren Christian III, 43			G
+(464) May 26, 2016		IL		M  		Devonte Gates, 21			G
+(463) May 26, 2016		NM		M/L		Angel Daniel Navarro, 25			G
+(462) May 26, 2016		MN		M  		Eugene Francis Smith, 29			G
+(461) May 25, 2016		OH		M/B		Terry Frost III, 20			G
+(460) May 25, 2016		OK		M/W		Derek Allan Prophet, 43			G
+(459) May 25, 2016		FL		M/B		Doll Pierre-Louis, 24			G
+(458) May 25, 2016		MO		M  		Leslie Wayne Goletz, 57			G
+(457) May 24, 2016		NM		M/L		Mario Montoya, 31			G
+(456) May 24, 2016		OR		M/W		Bodhi Wilson Dean Phelps, 22			G
+(455) May 23, 2016		FL		M/B		Vernell Charles Bing Jr., 22			G
+(454) May 23, 2016		AZ		M/I		Verl Bedonie, 26			G
+(453) May 22, 2016		CO		M/W		Bryson Fischer, 28			G
+(452) May 22, 2016		MA		M/L		Jorge Zambrano, 35			G
+(451) May 22, 2016		FL		M/B		Michael Eugene Wilson Jr., 27			G
+(460) May 21, 2016		OR		M/W		Travis Anthony Moore, 38			G
+(449) May 21, 2016		NC		M/W		John Cousins Jr,, 59			G
+(448) May 21, 2016		SC		M/W		Norman Campbell, 63			G
+(447) May 21, 2016		AZ		M/I		Mark Brandon Nelson, 31			G
+(446) May 20, 2016		AZ		M/W		Brian Steen, 40			G
+(445) May 20, 2016		NE		M/B		Joshua S. Beebee, 31			G
+(444) May 19, 2016		CA		M/L		Jaime Ide, 35			G
+(443) May 19, 2016		KY		M/W		Timothy Brandon Stacy, 36			G
+(442) May 19, 2016		FL		M/B		Kentrill William Carraway, 22			G
+(441) May 19, 2016		CA		F/B		Jessica Williams, 29		G
+(440) May 19, 2016		NV		M/L		Jeremias Cruz, 30			G
+(439) May 18, 2016		SC		M/B		Reginald Darnell Dogan, 52			G
+(438) May 18, 2016		MO		M/W		Joseph B. Weatherby, 44			G
+(437) May 18, 2016		AZ		M/L		Israel Santos-Banos, 19			G
+(436) May 18, 2016		NY		M/W		Garry Conrad Jr., 46			G
+(435) May 17, 2016		CA		M/W		Luke L. Sanders, 36			G
+(434) May 17, 2016		CO		M/W		Jeremy Thompson, 45			G
+(433) May 16, 2016		MA		M/W		Scott Macomber, 48			G
+(432) May 16, 2016		IN		M/W		Justin Addler, 32			G
+(431) May 15, 2016		GA		M/B		Jabril Robinson, 23			G
+(430) May 15, 2016		FL		M/W		Cody N. Marsh, 19			G
+(429) May 15, 2016		IL		M/W		Dracy Pendleton, 35			G
+(428) May 14, 2016		FL		M/W		Jeffrey Sims, 59			G
+(427) May 14, 2016		AZ		M/I		Francis Clark, 43			G
+(426) May 14, 2016		GA		M/W		Ryan Johnson, 34			G
+(425) May 13, 2016		NV		M/B		James Craig Simpson, 31			G
+(424) May 13, 2016		CA		M/L		Robert Mark Diaz, 28			G
+(423) May 13, 2016		NJ		M/W		Michael Gaffney, 37			G
+(422) May 13, 2016		NJ		M/W		Michael Gaffney, 37			G
+(420) May 12, 2016		AL		M/B		David Dementarius Canty, 51			G
+(419) May 12, 2016		CO		M/B		Sean Ryan Mondragon, 24			G
+(418) May 11, 2016		OK		M/W		Stephen Godfrey, 69			G
+(417) May 11, 2016		CA		M/A		Thongsoune Vilaysane, 30			G
+(416) May 11, 2016		CO		M/W		Stephen Ray Schuster, 35			G
+(415) May 10, 2016		TX		F/W		Nancy Friedrich, 35			G
+(414) May 10, 2016		MA		M/B		Arthur J. DaRosa, 28			G
+(413) May 10, 2016		TX		M/W		Jamie Allen Stotts, 29			G
+(412) May 10, 2016		ME		M/I		Derek J. Sam, 29			G
+(411) May 9, 2016		FL		M/W		Norman Eric Stauber, 50			G
+(410) May 9, 2016		TX		M/B		Arthur R. Williams Jr., 33			G
+(409) May 9, 2016		MS		M/W		Christian Bowman, 23			G
+(408) May 9, 2016		AR		M/B		Willie Tillman, 33			G
+(407) May 9, 2016		IL		M/W		Michael Johnson, 26			G
+(406) May 9, 2016		MN		M/B		Jaffort Demont Smith, 33			G
+(405) May 8, 2016		OK		M/W		Alexander Larmon, 44			G
+(404) May 8, 2016		IL		F/W		Kelly Wilson, 26			G
+(403) May 7, 2016		VA		M/W		Robert E. Crittsinger Jr., 79			G
+(402) May 7, 2016		CA		M/B		Lionel Gibson, 21			G
+(401) May 7, 2016		WA		M/W		Nathan Quinn Cates, 29			G
+(400) May 7, 2016		FL		M/B		Alton Witchard, 37			G
+(399) May 6, 2016		WV		M/B		Ronald D. Williams Jr., 23			G
+(398) May 5, 2016		WI		M/B		Burt T. Johnson, 38			G
+(397) May 5, 2016		LA		M/W		Corey DiGiovanni, 36			G
+(396) May 5, 2016		FL		F/B		Deresha Armstrong, 26			G
+(395) May 4, 2016		CA		M  		Matthew Tucker, 18			G
+(394) May 4, 2016		MO		M/W		Gerry J. Thompson, 40			G
+(393) May 4, 2016		PA		M  		Richard Ferretti, 52			G
+(392) May 4, 2016		WA		M/W		Cayce A. DiTullio, 39			G
+(391) May 3, 2016		CA		M/W		Raymond Hopper, 59			G
+(390) May 3, 2016		MD		M/W		Jeffrey Y. DeLong, 67			G
+(389) May 2, 2016		UT		M/W		David Shane Anderson, 36			G
+(388) May 1, 2016		SC		M/B		Benston Calvin Clinkscales, 26			G
+(387) May 1, 2016		TN		M/W		Ronald Branch, 28			G
+(386) May 1, 2016		FL		M/B		Charlin Charles, 25			G
+(386) May 1, 2016		FL		M/B		Charlin Charles, 25			G
+(385) April 30, 2016		CA		M/A		Marion Habana, 28			G
+(384) April 30, 2016		WI		M/W		Oswald Mattner, 42			G
+(383) April 30, 2016		UT		M/W		Mark Daniel Bess, 33			G
+(382) April 30, 2016		AZ		M  		Bender Dass, 55			G
+(381) April 29, 2016		OR		M  		Stephen Robert Heberliing, 68			V
+(380) April 29, 2016		MO		M/W		Jeffrey Darrell Hobbs, 48			V
+(379) April 28, 2016		ID		M/W		Lee Easter, 54			V
+(378) April 28, 2016		WA		M  		Michael S. Kurtz, 45			G
+(377) April 28, 2016		TX		M/B		Ashtian Duane Barnes, 24			G
+(376) April 28, 2016		FL		M/B		Kendar del Rosario, 37			G
+(375) April 27, 2016		CO		M/W		Damon Blair, 21			G
+(374) April 27, 2016		GA		M/A		Cin Lam Mung, 34			G
+(373) April 27, 2016		TX		M/W		Darrel Machemehl, 44			G
+(372) April 26, 2016		OK		M/W		Austin Vance, 22			G
+(371) April 26, 2016		VA		M/B		Joshua Brooks, 26			G
+(370) April 26, 2016		HI		M/W		Jonathan Watson, 46			G
+(369) April 26, 2016		CO		M/W		Robin Alan Barber, 28			G
+(368) April 26, 2016		NM		F/W		Jacqueline Burke, 24			G
+(367) April 25, 2016		NC		F/W		Kay Frances Campbell, 60			G
+(366) April 24, 2016		MS		M/W		Bradford Macomber, 53			G
+(365) April 24, 2016		WI		M/W		Jakob E. Wagner, 18			G
+(364) April 24, 2016		FL		M/B		Demarcus Semer, 21			G
+(363) April 23, 2016		VA		M/W		Eric C. Wakup, 30			G
+(362) April 23, 2016		NY		M/W		Carl Baranishyn, 51			G
+(361) April 23, 2016		AZ		M/W		Mitchell Oakley, 24			G
+(360) April 23, 2016		TX		M/W		Tyler Hunkin, 29			G
+(359) April 21, 2016		NM		F/W		Nikki Shae Bascom, 31			G
+(358) April 21, 2016		MA		M/L		Mario Mejia Martinez, 48			G
+(357) April 21, 2016		AR		M/W		Jackie Lee Kirkham, 52			G
+(356) April 20, 2016		VA		M/W		Paul Arthur Gianelos, 45			G
+(355) April 20, 2016		FL		M/W		Francis Scot Dufore, 41			G
+(354) April 19, 2016		AL		M/W		Daniel Blackmon, 38			G
+(353) April 19, 2016		MO		M/B		Jorevis Scruggs, 15			G
+(352) April 19, 2016		NC		M/A		Sylasone Ackhavong, 41			G
+(351) April 19, 2016		MD		M/B		Rico Don Rae Johnson, 28			G
+(350) April 18, 2016		GA		M/B		Demetrius Dorsey, 18			G
+(349) April 18, 2016		NY		M/B		Edson Thevenin, 38			G
+(348) April 18, 2016		TX		M/W		Eric John Wilson, 22			G
+(347) April 17, 2016		NJ		M/B		Richard Bard Jr., 31			G
+(346) April 17, 2016		OH		F/B		Kisha Arrone, 35			G
+(345) April 17, 2016		NY		M/B		George Tillman, 32			G
+(344) April 16, 2016		SC		M/B		Bennie D. Bennett, 56			G
+(343) April 16, 2016		OK		M/W		David Swaatsky, 52			G
+(342) April 16, 2016		IL		M/W		Gerald Robert Boyes, 53			G
+(341) April 15, 2016		CA		M/L		Clemente Najera, 38			G
+(340) April 15, 2016		IN		M/W		Storm Allen Smith, 26			G
+(339) April 15, 2016		MD		M/B		Robert Jerome Howard, 44			G
+(338) April 14, 2016		KS		M  		Jeff Robertson, 54			G
+(337) April 13, 2016		TN		M/W		Koltlee Whitson, 26			G
+(336) April 13, 2016		TX		M/W		Jeffrey Gray Wise, 52			G
+(335) April 13, 2016		CA		M/B		Rodney Watts, 35			G
+(334) April 12, 2016		IL		M/L		Joshua Moreno, 38			G
+(333) April 12, 2016		CO		M  		Dion Damon, 40			G
+(332) April 12, 2016		FL		M/W		Travis Wood, 20			G
+(331) April 11, 2016		IL		M/B		Pierre L. Loury, 16			G
+(330) April 11, 2016		NV		M/L		Efren Trujillo-Soriano, 22			G
+(329) April 10, 2016		GA		M/B		Jerand Edward Ross, 24			G
+(328) April 10, 2016		CA		M/L		Arturo Yobani-Torrez Valdez, 27			G
+(327) April 10, 2016		TN		M/L		Luis Felipe Soto, 29			G
+(326) April 10, 2016		NY		M/W		William J. Clark III, 30			G
+(325) April 10, 2016		CA		M/W		Lonnie Ball, 39			G
+(324) April 9, 2016		PA		M/B		Quron Williams, 19			G
+(323) April 9, 2016		WI		F/W		Melissa M. Abbott, 25			G
+(322) April 9, 2016		NJ		M/B		Diahlo Grant, 27			G
+(321) April 8, 2016		MI		M/B		Lamont Gulley, 43			G
+(320) April 8, 2016		CA		M/B		Dazion Flenaugh, 40			G
+(319) April 7, 2016		NE		M/I		Lance C. McIntire, 44			G
+(318) April 7, 2016		AR		M/W		Christopher Wilson, 41			G
+(317) April 7, 2016		CA		M/I		Luis Demetrio Gongora Pat, 45			G
+(316) April 6, 2016		CA		M/L		Cesar Frias, 20			G
+(315) April 6, 2016		TN		F/B		Laronda Sweatt, 40			G
+(314) April 6, 2016		OH		M/W		Marvin Cremeans, 60			G
+(313) April 6, 2016		FL		M/W		Christopher Erdman, 39			G
+(312) April 5, 2016		GA		M/W		Thomas Lagano, 52			G
+(311) April 5, 2016		IN		M/B		Kevin Hicks, 44			G
+(310) April 5, 2016		MA		M/W		Peter Doherty, 52			G
+(309) April 4, 2016		OK		M/B		Darius Randell Robinson, 41			G
+(308) April 4, 2016		MN		M/L		Raul Salvador Marquez Heraldes, 50			G
+(307) April 3, 2016		AL		F/W		Melissa C. Boarts, 36			G
+(306) April 3, 2016		TX		M/W		Darrin Andrew Martin, 25			G
+(305) April 3, 2016		WI		M/W		David Mack, 69			G
+(304) April 2, 2016		VA		M/A		Jeffrey Aguilar, 26			G
+(303) April 2, 2016		IN		M/B		Cameron Glover, 30			G
+(302) April 1, 2016		LA		M/B		Grant Hamilton, 34			G
+(301) April 1, 2016		AZ		M/L		Ruben Cossyleon, 25			G
+(300) April 1, 2016		TX		M/L		Joel Fabela, 37			G
+(299) April 1, 2016		TX		M/L		Jesus �Chuy� Juarez, 65			G
+(299) April 1, 2016		TX		M/L		Jesus �Chuy� Juarez, 65			G
+(298) March 31, 2016		NJ		M/B		John Parham, 67			G
+(297) March 31, 2016		NJ		M/B		John Parham, 67			G
+(295) March 31, 2016		VA		M/B		James Brown III, 34			G
+(294) March 30, 2016		CA		M/L		Angel Montion, 33			G
+(293) March 30, 2016		MN		F/W		Denise Fairchild, 50			G
+(292) March 29, 2016		SC		M/W		Robert Morgan Garrison, Jr., 51			G
+(291) March 29, 2016		CA		M/W		Joseph Louis Melvin, 46			G
+(290) March 28, 2016		NM		M/W		Robert Guerin, 33			G
+(289) March 27, 2016		TX		M/W		Earl Ashby, 33			G
+(288) March 27, 2016		AZ		F/I		Loreal Barnell-Tsingine, 27			G
+(287) March 27, 2016		MO		M/W		Jeffrey K. Lanahan, 34			G
+(286) March 27, 2016		MA		M/L		Jose Perez, 39			G
+(285) March 27, 2016		NC		M/B		Deriante Miller, 18			G
+(284) March 26, 2016		FL		M/W		Patrick Matthew McManamon, 46			G
+(283) March 26, 2016		VA		M/W		Terrance Blackburn, 36			G
+(282) March 26, 2016		SC		M/W		Donald Andrew White, 55			G
+(281) March 24, 2016		CA		M/W		Andrew Mike, 29			G
+(280) March 24, 2016		RI		M/B		Dominique Silva, 24		G
+(279) March 24, 2016		MO		M/B		Jermon J. Seals, Sr., 22			G
+(278) March 24, 2016		CO		M/L		Joel Gonzales, 48			G
+(277) March 24, 2016		NM		M/L		Mario Sandoval, 19			G
+(276) March 24, 2016		FL		M/W		Dustin Edward Jones, 32			G
+(275) March 24, 2016		MA		M/W		Robert L. Dussourd, 44			G
+(274) March 24, 2016		TN		M/B		Alexio Allen, 30			G
+(273) March 23, 2016		CA		M/L		Raymond Gonzalez, 34			G
+(272) March 23, 2016		CO		M/W		Daven Scott Hannu, 51			G
+(271) March 23, 2016		FL		M/L		Ethan James Rincon, 25			G
+(270) March 22, 2016		VA		M/W		Travis J. Blair, 33			G
+(269) March 22, 2016		VT		M/W		Ralph �Phil� Grenon, 76			G
+(268) March 21, 2016		CT		M/W		Dylan Pape, 25			G
+(267) March 21, 2016		PA		M/W		Edward Gorinski, 28			G
+(266) March 21, 2016		FL		M/B		Robert Dentmond, 16			G
+(265) March 20, 2016		IN		M/L		Abraham Martinez, 62			G
+(264) March 20, 2016		VA		M/W		Boyd Keith Ballard, 61			G
+(263) March 20, 2016		PA		M/W		Clarence Briggs, 54			G
+(262) March 19, 2016		KY		M/W		Dylan Whitaker, 23			G
+(261) March 19, 2016		LA		M/W		Joshua Douglas, 24			G
+(260) March 19, 2016		IL		M/B		Thurman Reynolds, 21			G
+(259) March 19, 2016		VA		F/B		India Beaty, 25			G
+(258) March 19, 2016		FL		M/B		Torrey Lamar Robinson, 35			G
+(257) March 18, 2016		ID		M/W		David Alma Giles, 60			G
+(256) March 18, 2016		CA		M  		Michael Mallett, 49			G
+(255) March 17, 2016		CA		M  		Michael Mallett, 49			G
+(253) March 17, 2016		NC		M/W		Dennis Penny, 40			G
+(252) March 17, 2016		MN		M/A		Map Kong, 38			G
+(251) March 17, 2016		FL		M/A		Sunny Chin, 53			G
+(250) March 16, 2016		NY		M/L		Richard Gonzalez, 55			G
+(249) March 16, 2016		FL		  					G
+(248) March 16, 2016		CA		M/L		Vincent Avila, 25			G
+(247) March 16, 2016		TX		M/L		Eric Hernandez, 33			G
+(246) March 16, 2016		CA		M/L		Cristian Rene Medina, 23			G
+(245) March 15, 2016		IN		M/W		Daniel Wooters, 38			G
+(244) March 15, 2016		TX		M/W		Ed McIver, 42			G
+(243) March 15, 2016		KY		M/W		Joseph Harris, 34			G
+(242) March 14, 2016		IL		M/B		Lamar Harris, 29			G
+(241) March 13, 2016		NJ		M/B		Kevin Higgenbotham, 47			G
+(240) March 13, 2016		MD		M/B		Jacai Colson, 28			G
+(239) March 13, 2016		TX		M/L		Jose Raul Cruz, 16			G
+(238) March 13, 2016		WA		F/W		Amy Jean McCoy, 38			G
+(237) March 13, 2016		CA		M/W		Gevork Alachadzhyan, 45			G
+(236) March 13, 2016		AL		M/W		Wesley Chad Deerman, 26			G
+(235) March 13, 2016		KY		M  		Michael Roll, 52			T
+(234) March 13, 2016		TN		M/W		Joshua William Grubb, 33			T
+(233) March 12, 2016		NC		M/W		Christopher Michael Tokazowski, 43			T
+(232) March 12, 2016		MI		M/W		William John Jennings Jr., 49			T
+(231) March 12, 2016		PA		M/B		Keith Montgomery, Jr., 24			T
+(230) March 12, 2016		TX		M/B		Peter Matthew Gaines, 35			T
+(229) March 12, 2016		TX		M/B		Marco Antonio Loud, 20			T
+(228) March 12, 2016		IL		M/W		Jack Goodman, 46			T
+(227) March 11, 2016		CA		M/L		Teodoro Valencia Jr., 23		T
+(226) March 11, 2016		KS		M/W		Manford "Butch" Moore, Jr., 51			T
+(225) March 11, 2016		VA		M/B		Tyre Privott, 25			T
+(224) March 10, 2016		CO		M/L		German Gustavo Anchondo Gonzalez, 23			G
+(223) March 10, 2016		TX		M/W		Jason Meador, 50			G
+(222) March 10, 2016		NV		M/B		Arteair Porter, 22			G
+(221) March 10, 2016		CA		M/L		Martin Rene Hurtado, 21			G
+(220) March 10, 2016		MS		M/W		Wesley Sheppard, 37			G
+(219) March 9, 2016		FL		M/W		Jeffery Casale, 27			G
+(218) March 8, 2016		NC		M/W		Alex Thompson, 37			G
+(217) March 7, 2016		NM		M/L		Daniel Chavez, 41			G
+(216) March 7, 2016		MT		M/W		John Charles "JC" Graham, 42			G
+(215) March 7, 2016		CA		M/L		Abelino Cordova-Cuevas, 28			G
+(214) March 7, 2016		KS		M/W		Randall J. Selsor, 45			G
+(213) March 7, 2016		CA		M/L		Byron Rosas, 45			G
+(212) March 7, 2016		NY		M/W		Phillip Vitullo, 49			G
+(211) March 6, 2016		ND		M/W		James Anthony Scott, 42			G
+(210) March 6, 2016		TX		M/W		Mark Minnick, 51			G
+(209) March 6, 2016		CA		M/L		Osvaldo Torres, 41			G
+(208) March 6, 2016		NY		M/W		Darrell Bosell, 34			G
+(207) March 5, 2016		VI		M/B		Evan Ezekiel Joseph, 38			G
+(206) March 5, 2016		TX		M/W		Herbert Ballance, 22			G
+(205) March 4, 2016		AR		M  		John Alan Chamberlain, 66			G
+(204) March 4, 2016		KY		M/W		Brandon Stanley, 30			G
+(203) March 4, 2016		AZ		M/L		Sergio Ochoa, 27			G
+(202) March 3, 2016		CA		M  		, 51			V
+(201) March 2, 2016		PA		M/W		Daniel David Burkhardt, 41			G
+(200) March 2, 2016		MD		M/W		Travis Boyd Bradley, 36			G
+(199) March 1, 2016		MS		M/W		Mickey Dewayne Sweatt, 37			G
+(198) March 1, 2016		TX		M/L		Jorge Brian Gonzalez, 22			G
+(197) March 1, 2016		FL		M/L		Dimitri Corcino, 38			G
+(197) March 1, 2016		FL		M/L		Dimitri Corcino, 38			G
+(196) February 29, 2016		NC		M/B		Akiel Denkins, 24			G
+(195) February 28, 2016		AL		M/W		Nathan Grissom, 41			G
+(194) February 28, 2016		SD		M/W		Earl W. Hicks, II, 44			G
+(193) February 27, 2016		TX		M/L		Fernando Hernandez, 23			G
+(192) February 27, 2016		SD		M/W		Abraham Mitchell Fryer, 35			G
+(191) February 26, 2016		VA		M/B		Kionte Desean Spencer, 18			G
+(190) February 25, 2016		KS		M/B		Cedric Larry Ford, 38			G
+(189) February 25, 2016		NV		M/W		Tristan Conti, 19			G
+(188) February 25, 2016		CO		M/W		Luke Nathan Miller, 37			G
+(187) February 25, 2016		AL		M/B		Gregory Gunn, 56			G
+(186) February 25, 2016		NE		M/W		Alex J. Zoucha, 31			G
+(185) February 24, 2016		WI		M/B		Christopher J. Davis, 21			G
+(184) February 24, 2016		AZ		M/L		Victor Rivera, 27			G
+(183) February 24, 2016		CA		M/L		Francisco Garcia, 26			G
+(182) February 24, 2016		CO		M/W		Martin T. Wirth, 58			G
+(181) February 24, 2016		MO		M/W		Robert Keil, 16				G
+(180) February 23, 2016		LA		M/B		Travis Stevenson, 48			G
+(179) February 23, 2016		CA		M/L		Angel Alan Gleason, 36			G
+(178) February 23, 2016		AZ		M  		Alex Arthur Buckner, 26			G
+(177) February 23, 2016		TX		M/L		Baltazar Ramos, 39			G
+(176) February 22, 2016		CT		M/B		Thomas Lane, 37			G
+(175) February 22, 2016		OH		M/W		Rouven Loch, 22			G
+(174) February 22, 2016		AK		F/I		Patricia Kruger, 38			G
+(173) February 22, 2016		TX		M/W		David Michael Green II, 38			G
+(172) February 22, 2016		CA		M/W		Jamie Clark Long, 45			G
+(171) February 22, 2016		CO		M/L		Gerardino Cayetano Gonzalez Jr., 33			G
+(170) February 21, 2016		AZ		F/I		Sherrisa Homer, 36			G
+(169) February 21, 2016		WA		M/B		Che Andre Taylor, 47			G
+(168) February 21, 2016		WA		M/B		Che Andre Taylor, 47			G
+(166) February 20, 2016		OH		M/B		Ariel J. Clark, 31			G
+(165) February 20, 2016		CA		M  		Danny Rendon, 30			G
+(164) February 20, 2016		WA		M/L		Marcos Perea, 41			G
+(163) February 20, 2016		NM		M/L		Edgar Camacho-Alvarado, 23			G
+(162) February 20, 2016		MS		M/W		Charles Lee Lambert, 45			G
+(161) February 19, 2016		TN		M/W		Curtis James Dugger, 31			G
+(160) February 19, 2016		UT		M/W		Justin Patrick Moses, 35			G
+(159) February 18, 2016		TX		M/L		Ronnie Lee Padron, 32			G
+(158) February 18, 2016		TX		M/L		Ronnie Lee Padron, 32			G
+(156) February 18, 2016		GA		M/W		Joseph Noel, 25			G
+(155) February 18, 2016		CO		M/W		Travis Wood Jr., 24			G
+(154) February 17, 2016		NM		M/L		Guadalupe Sauceda, 52			G
+(153) February 17, 2016		OH		M/B		Paul Gaston, 37			G
+(152) February 16, 2016		NY		M/W		John Tozzi, 61			G
+(151) February 16, 2016		MO		M/W		Destry Meikle, 48			G
+(150) February 16, 2016		AR		M/W		Shawn Dickens, 30			G
+(149) February 16, 2016		CT		M/W		Christopher Andrews, 51			G
+(148) February 15, 2016		TX		M/L		Inocencio Cardenas Jr., 38			G
+(147) February 15, 2016		CA		M/W		Brandon Lee Witt, 39			G
+(146) February 14, 2016		FL		M/W		Marc Stoddart, 50			G
+(145) February 14, 2016		CA		M/W		Rammy Jaradat, 26			G
+(144) February 14, 2016		CA		M/L		Eduardo Edwin Rodriguez, 29			G
+(143) February 13, 2016		TX		M/B		Calin Roquemore, 24			G
+(142) February 13, 2016		LA		M/B		Calvin Smith, 22			G
+(141) February 13, 2016		VA		M/B		Dyzhawn L. Perkins, 19			G
+(140) February 13, 2016		GA		M  		Jonathan Fowler, 32			V
+(139) February 13, 2016		IA		M/B		Ali Eisa Abdalla Yahia, 29			V
+(138) February 12, 2016		FL		M/W		Talmadge King, 47			V
+(137) February 12, 2016		NY		F/B		Sahlah Ridgeway, 32			V
+(136) February 12, 2016		TX		M/W		David Glen Watson, 53		V
+(135) February 12, 2016		MA		M/B		Peter Fanfan, 29			V
+(134) February 12, 2016		CA		M/W		Matthew Thomas Quinn, 45		G
+(133) February 11, 2016		NC		M/W		Alijah Jackson, 35			G
+(132) February 11, 2016		OH		M/B		Mohamed Barry, 30			G
+(131) February 10, 2016		OH		M/B		Mohamed Barry, 30			G
+(129) February 10, 2016		MN		M/W		John Birkeland, 52			G
+(128) February 10, 2016		TX		M/PI		Anthony Bertoni, 56		G
+(127) February 10, 2016		AK		M/I		Vincent Nageak III, 36			G
+(126) February 10, 2016		KY		M/W		Timothy Vessels, 41			G
+(125) February 10, 2016		MD		M/W		David Brian Evans, 67			G
+(124) February 9, 2016		HI		M/PI		Scottie Yanagawa, 29			G
+(123) February 9, 2016		CA		M/L		Gustavo Najera, 22			G
+(122) February 8, 2016		AL		M/B		Randy Joe Nelson, 49			T
+(121) February 8, 2016		LA		M/B		Eric Harris, 22			T
+(120) February 8, 2016		TX		M/B		David Joseph, 17			T
+(119) February 8, 2016		PA		M/B		Shalamar Longer, 33			T
+(118) February 7, 2016		AR		M/W		Phillip Luchsinger, 36			T
+(117) February 7, 2016		OH		M/B		Marese Collins, 23			T
+(116) February 6, 2016		CA		M/L		Jose Mendez, 16			T
+(115) February 6, 2016		OH		M  		Steve Davis, 47			G
+(114) February 6, 2016		NJ		M/L		Michael Laniado, 27			G
+(113) February 5, 2016		OR		M/W		Phillip Ferry, 55			G
+(112) February 5, 2016		CA		M  		Wendell Celestine Jr., 37			R
+(111) February 5, 2016		TX		M/L		Hector Leroy, 43				R
+(110) February 5, 2016		LA		F/W		Emily Gassie-Thibodeaux, 23			R
+(109) February 5, 2016		NC		M/W		Vinson Ray Strickland, 51			R
+(108) February 5, 2016		HI		M/PI		Ronald Kimo Barawis Jr., 38			R
+(107) February 5, 2016		FL		M/W		Blake Fitzgerald, 30			R
+(106) February 5, 2016		MO		M/W		Scott Richard Harless, 47			G
+(105) February 4, 2016		TX		M/B		Antronie Scott, 36			G
+(104) February 4, 2016		OH		M/W		Thomas Hirko, 54			G
+(103) February 4, 2016		AZ		T/W		Danielle Jacobs, 24		G
+(102) February 3, 2016		CA		M  		Joshua Shane Bispo, 42			G
+(101) February 3, 2016		FL		M/W		Cristiaan Oliver Dubrino, 31			G
+(100) February 3, 2016		SD		M/I		Raymond Gassman, 22			G
+(99) February 3, 2016		OK		M/W		John Henry Neuman, 53			G
+(98) February 2, 2016		TX		M/W		Lawrence Kindel, 33			G
+(97) February 2, 2016		PA		M/I		Joseph Molinaro, 34			G
+(96) February 2, 2016		CA		M/W		Justin Prescott, 30			G
+(95) February 2, 2016		NM		M/L		Edgar Rene Alvarado, 21			G
+(94) February 1, 2016		DC		M/B		Peter John, 36			G
+(93) February 1, 2016		FL		M/L		Juan A. Ruiz, 46			G
+(93) February 1, 2016		FL		M/L		Juan A. Ruiz, 46			G
+(92) January 31, 2016		CA		M/W		Jeffry Graves, 62			G
+(91) January 31, 2016		PA		M/B		Bruce Kelley Jr., 37			G
+(90) January 31, 2016		IL		M/B		Charles M. Smith, 29			G
+(89) January 31, 2016		TX		M/W		Michael Brown, 25			G
+(88) January 31, 2016		MO		M/W		Jeremy J. Sinclair, 42			G
+(87) January 30, 2016		GA		M/L		Jose Alegre, 64			G
+(86) January 29, 2016		AL		F/W		Angela Hiatt, 41			G
+(85) January 30, 2016		CO		M/L		Philip B. Salazar, 38			G
+(84) January 29, 2016		TX		M/B		Christopher Michael Dew, 29			G
+(83) January 29, 2016		MA		M/B		Randolph McClain, 33			G
+(82) January 29, 2016		NE		M/W		William A. Adams, 33			G
+(81) January 28, 2016		OR		M/B		Christopher Kalonji, 19			G
+(80) January 28, 2016		WA		F/I		Jacqueline D. Salyers, 32			G
+(79) January 28, 2016		FL		F/L		Jessica Lee Bonilla, 24			G
+(78) January 27, 2016		GA		M/L		Israel Vladimir Rodriguez, 26			G
+(77) January 27, 2016		NM		M/L		Herman Flores, 31			G
+(76) January 27, 2016		MI		F/B		Janet Wilson, 31			G
+(75) January 27, 2016		TN		M/A		Thongsavanh Vandarack, 40			G
+(74) January 27, 2016		SC		M/W		John Wesley Smith, 27			G
+(73) January 27, 2016		TX		M/W		Nathan Bailey, 30			G
+(72) January 27, 2016		TN		M/B		Johnathan Bratcher, 32			G
+(71) January 27, 2016		AR		M/W		Scott F. Scanlon, 52			G
+(70) January 26, 2016		OR		M/W		Robert "LaVoy" Finicum, 55			G
+(69) January 26, 2016		KS		M/W		Scott A. Brunson, 50			G
+(68) January 25, 2016		CA		M/W		Stephen Schenck, 47			G
+(67) January 25, 2016		NV		M/L		Silvio Alvarado-Morales, 38			G
+(66) January 23, 2016		AL		M/W		Michael Lamar Robinson, 43			G
+(65) January 22, 2016		IN		F/W		Sharon Mitterling, 67			G
+(64) January 22, 2016		GA		M/W		Joshua Lee, 26			G
+(63) January 21, 2016		NJ		M/W		Jerry Siracusa, 44			G
+(62) January 21, 2016		OK		M/B		Cedric Lamont Norris, 39			G
+(61) January 21, 2016		AL		M/W		Randy Joe Sanders Jr., 33			G
+(60) January 20, 2016		LA		M/B		Timothy R. Albert, 40			G
+(59) January 20, 2016		TX		M/W		Michael Clyde Lynch, 37			G
+(58) January 20, 2016		GA		M/W		Jim Bravis Redmond, 28			G
+(57) January 19, 2016		CA		M/L		Filiberto Valencia, 26			G
+(56) January 19, 2016		AZ		M/W		Levi Gene Wilson, 39			G
+(55) January 19, 2016		NC		M/W		Samuel Grady, 55			G
+(54) January 19, 2016		TX		M/W		Gary Wayne Jones, 36			G
+(53) January 18, 2016		CA		M/W		Vasilios Alexander Katsouras, 29			G
+(52) January 18, 2016		OR		M/W		Timothy Joseph Alex Caruthers, 27			G
+(51) January 18, 2016		FL		M/W		Eric Provost, 28			G
+(50) January 18, 2016		AZ		M/W		Jordan Szymanski, 33			G
+(49) January 17, 2016		AZ		M/W		Daniel Shaver, 26			G
+(48) January 17, 2016		CA		M/L		Efrain Herrera Jr., 24			G
+(47) January 17, 2016		MO		M/B		Crayton West, 52			G
+(46) January 17, 2016		TX		M/W		Ashton Lane Morris, 27			G
+(45) January 17, 2016		WV		M/W		Clarence Layfield, Jr., 55		G
+(44) January 17, 2016		AL		M/W		Joshua Tate Fielding, 38			G
+(43) January 17, 2016		UT		M/W		Cory Lee Henderson, 31			G
+(42) January 16, 2016		TN		M/W		Brandon David Bearden, 29			G
+(41) January 16, 2016		CA		M/L		Alfred Longoria, 34			G
+(40) January 16, 2016		OR		M/W		Adam Karjalainen, 44			G
+(39) January 16, 2016		CA		F/W		Kelsey Rose Hauser, 25			G
+(38) January 16, 2016		FL		M/B		Henry Bennett, 19			G
+(37) January 16, 2016		WV		M/W		William Keith Waldron, 26			G
+(36) January 15, 2016		MI		M/B		Rakeem O. Bentley, 24			G
+(35) January 14, 2016		CA		M/L		Miguel Hernandez, 39			G
+(34) January 14, 2016		IL		M/W		Willie Holderfield, 41			G
+(33) January 13, 2016		WA		M/W		Timothy Bernard Meehan, 60			G
+(32) January 12, 2016		VA		M/W		Keith Richardson, 58			G
+(31) January 12, 2016		AK		M  		Herman Bean Jr., 49			G
+(30) January 12, 2016		CO		M/W		Ramone Lonergan, 32			G
+(29) January 11, 2016		KY		F/B		Gynnya McMillen, 16			G
+(28) January 11, 2016		PA		F/W		Ciara Meyer, 12			G
+(27) January 11, 2016		OH		M/W		Robert Tenbrink, 45			G
+(26) January 11, 2016		CA		M  		, 50s			G
+(25) January 10, 2016		MD		F/W		Christine A. Lucas, 45			G
+(24) January 10, 2016		WA		M/W		David Jay Kent, 37			G
+(23) January 9, 2016		TX		M  		Lance Light, 54			G
+(22) January 9, 2016		DE		M/B		Lionel Waters, 35			G
+(21) January 9, 2016		VI		M/B		Avery Charlery			G
+(20) January 9, 2016		GA		M/W		Andrew Earl Abernathy, 50			G
+(19) January 8, 2016		CO		M/W		Dana Bruce Ott, 63			G
+(18) January 8, 2016		WI		M/W		Eric C. Olsen, 26			G
+(17) January 7, 2016		MA		M  		Samuel Dunn, 29			R
+(16) January 7, 2016		KY		M/W		Kenneth Clay, 34			R
+(15) January 7, 2016		NM		M/L		Alan Huberth Franco-Armenta, 32			R
+(14) January 6, 2016		IL		M/W		Charles J. Hollstein, 38			R
+(13) January 5, 2016		CA		M/L		Albert Thompson, 28			R
+(12) January 5, 2016		CA		M/W		Stephen John Bukwich, 52			R
+(11) January 5, 2016		TN		M/W		James K. Maher, 39			R
+(10) January 5, 2016		WA		M/W		Joel Anthony Nelson, 29			R
+(9) January 5, 2016		PA		M/W		David Zollo, 54			R
+(8) January 5, 2016		NC		M/B		Carlton Antonio Murphy, 33			G
+(7) January 4, 2016		LA		M/B		Eric John Senegal, 27			G
+(6) January 3, 2016		OK		M/B		Rodney Turner, 22			G
+(5) January 3, 2016		NC		M/B		Germonta Wallace, 30			G
+(4) January 2, 2016		MT		M/W		Sean O'Brien, 37			G
+(3) January 2, 2016		SD		M/W		Lonnie Haskell Powers, Jr., 37			G
+(2) January 2, 2016		CA		M/W		Joshua Adam Sisson, 30			G
+(1) January 1, 2016		ID		M/L		Gilberto Heredia, 38			G
